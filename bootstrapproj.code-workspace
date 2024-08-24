@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Desktop/Pictures/bootstrapproj"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrapproj"
+	}
+}
